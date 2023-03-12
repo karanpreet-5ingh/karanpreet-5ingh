@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Headland+One&size=26&pause=1000&vCenter=true&Center=true&color=3407C3&width=435&lines=Hi%2C+My+Name+is+Karanpreet+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+My+GitHub+Profile.;I+am+an+AI+enthusiast.%F0%9F%A4%96)](https://git.io/typing-svg)
 
+<img align="right" alt="Coding" width="370" src="https://vitalflux.com/wp-content/uploads/2020/10/feed_forward_neural_network-1.gif">
+
+
 <h3 align="left">"Let's connect and explore the fascinating world of AI together!"</h3>
 
 - 🔭 I am actively involved in working on [Computer vision and Edge Computing](https://github.com/karanpreet-singh-iic/YunetFace)
