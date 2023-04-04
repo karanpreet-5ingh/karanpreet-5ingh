@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dev.karanpreet@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y0uEuedlz233TfbtGD-j4f-H65LVJHNI/view?usp=share_link](🔗)
+- 📄 Know about my experiences [🔗](https://drive.google.com/file/d/1Y0uEuedlz233TfbtGD-j4f-H65LVJHNI/view?usp=share_link)
 
 - ⚡ Fun fact **I am a coder, with the power to bring ideas to life through programming!**
 
