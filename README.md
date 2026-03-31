@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Stable Diffusion, Reinforcement Learning and Bitcoin**
 
-- 📫 How to reach me **dev.karanpreet@gmail.com**
+# - 📫 How to reach me **dev.karanpreet@gmail.com**
 
 - 📄 Know about my experiences [🔗](https://drive.google.com/file/d/1Y0uEuedlz233TfbtGD-j4f-H65LVJHNI/view?usp=share_link)
 
